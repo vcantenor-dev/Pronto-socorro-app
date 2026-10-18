@@ -1,0 +1,6 @@
+{
+  "name": "PRONTO SOCORRO",
+  "description": "Aplicativo mobile de primeiros socorros e acionamento de emergência com guias passo a passo para leigos, localização e metrônomo de RCP.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
